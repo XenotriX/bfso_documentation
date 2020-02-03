@@ -103,3 +103,7 @@ public function pay(Request $request){
 ```
 {% endcode %}
 
+{% embed url="https://github.com/bfso/426\_gourmet-webshop/blob/feature/payment/app/Http/Controllers/CheckoutController.php" %}
+
+
+
