@@ -289,4 +289,5 @@ Unter dem Begriff Schadsoftware werden Programme zusammengefasst, die unbemerkt 
 1. Ist Ihr Computer mit dem Internet verbunden, trennen Sie sofort die Verbindung, notfalls durch Abziehen des Kabels.
 2. Fahren Sie den Computer herunter.
 3. Neustart mit Boot-USB mit installierter Antivirensoftware
-4. 
+4. ...
+
