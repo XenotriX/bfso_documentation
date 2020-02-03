@@ -1,6 +1,10 @@
 # Clean Code - Level 1
 
-## Namensgebung
+## Namensgebung \(PHP psr4\)
+
+{% hint style="danger" %}
+Die folgenden Informationen beziehen sich auf PHP - andere Programmiersprachen haben andere Regeln. Wichtig ist aber, dass die offiziellen Regeln der Sprache bzw. des Frameworks strikt eingehalten werden!
+{% endhint %}
 
 #### Funktionen sollten `lowerCamelCase` verwenden:
 
