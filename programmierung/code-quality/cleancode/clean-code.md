@@ -20,7 +20,7 @@ Die folgenden Informationen beziehen sich auf PHP - andere Programmiersprachen h
 
 #### **Klarheit ist wichtiger als Kürze**
 
-Besser `getAbsoluteDifference()` ist besser als `getAbsDiff()` oder `icrement()` ist besser als `inc()`. Die Abkürzung könnte `include()` oder `increment()` heissen.
+Besser `getAbsoluteDifference()` als `getAbsDiff()` oder `icrement()` ist besser als `inc()`. Die Abkürzung könnte `include()` oder `increment()` heissen.
 
 #### **Vermeide Lückenfüller wie `item` oder `element` oder `array`**
 
