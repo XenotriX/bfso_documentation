@@ -105,7 +105,7 @@ public function pay(Request $request){
 
 #### Vorteile
 
-Auch wenn die Implementation auf den ersten Blick komplizierter erscheid. So zeigen sich die Vorteile sobald das Programm komplizierter wird. Müsste man zum Beispiel die Kreditkartenzahlung anpassen so müsste nur das File `app/Shop/Payment/CreditCardPayment.php` angepasst werden. Alle anderen Zahlungsmethoden müssten nicht berührt werden und somit auch nicht getestet werden. 
+Auch wenn die Implementation auf den ersten Blick komplizierter erscheid. So zeigen sich die Vorteile sobald das Programm komplizierter wird. Müsste man zum Beispiel die Kreditkartenzahlung anpassen so müsste nur das File `app/Shop/Payment/CreditCardPayment.php` angepasst werden. Alle anderen Zahlungsmethoden müssten nicht berührt werden und somit entfallen auch die Tests. 
 
 Auch wenn man eine neue Zahlungsmethode hinzufügen will - muss man nur ein neues File z.B. `app/Shop/Payment/TwintPayment.php` hinzufügen \(und die Factory ergänzen\). So muss man sich keine Sorgen um die bestehenden Zahlungsmethoden machen.   
 
