@@ -4,8 +4,6 @@
 Die folgenden Techniken werden nicht im Detail angeschaut, trotzdem haben sie einige interessante Denkansätze.
 {% endhint %}
 
-## 
-
 ## Lean Development
 
 {% embed url="https://www.leanmagazin.de/lean-praxis/lean-development/921-lean-development-produktentstehungsprozess-ohne-verschwendung.html" %}
