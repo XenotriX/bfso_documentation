@@ -106,3 +106,7 @@ delete
 destroy
 ```
 
+#### **Verwende immer die gleichen Bezeichnungen für dasselbe Konzept**
+
+z.B. `$product->save()` und `$category->store()` oder `$person->phoneNumbers->append()` und `$person->childern->add()`
+
