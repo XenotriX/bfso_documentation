@@ -30,9 +30,11 @@ Besser `getAbsoluteDifference()` ist besser als `getAbsDiff()` oder `icrement()`
 
 `icrease($amount)` ist genauso aussagekräftig wie `increaseByAmount($amount)`
 
-#### **Versuche möglichst natürliche Sprache zu verwenden**
+#### **Versuche möglichst so zu programmieren dass es wie eine natürliche Sprache lesbar ist**
 
 `$clients->where('name','is','Frank')->orderBy('name')->get();`
+
+SQL ist ein typisches Beispiel.
 
 `INSERT INTO products (id,name) VALUES (1, 'Sneaker');`
 
