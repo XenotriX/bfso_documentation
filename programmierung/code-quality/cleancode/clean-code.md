@@ -96,7 +96,7 @@ public function isHidden(){
 }
 ```
 
-## Nutze `continue`und `break`um Code zu vereinfachen
+## Nutze `continue` und `break` um Code zu vereinfachen
 
 #### Gut
 
