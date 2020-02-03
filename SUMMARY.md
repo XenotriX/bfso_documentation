@@ -25,6 +25,7 @@
 * [Git](git/README.md)
   * [Git - Level 1](git/git-level-1.md)
   * [Git - Level 2](git/git-level-2.md)
+  * [Git - Level 3](git/git-level-3.md)
 
 ## prArb
 
