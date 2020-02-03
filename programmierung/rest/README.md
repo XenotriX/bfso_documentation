@@ -126,7 +126,7 @@ Updates a given product
 
 #### Gib die Fehlermeldung als JSON zurück \(Und nicht als Text\)
 
-```text
+```javascript
 {
     "error": "Invalid payload",
     "code": 34,
@@ -140,14 +140,14 @@ Updates a given product
 
 Hier weiss man nicht genau ob man Autoren oder Artikel zurück bekommt:
 
-```text
+```javascript
 Gut:
 /authors/12/articles
 ```
 
 Hier ist klar dass man alle Artikel zurück bekommt welche der Autor mit der ID 12 geschrieben hat:
 
-```text
+```javascript
 Besser:
 /articles/?author_id=12
 ```
