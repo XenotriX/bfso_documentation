@@ -18,7 +18,7 @@ Mit der Bezahlbarkeit und steigenden Rechenleistung von Computern lagen die zu v
 
 #### **In Zukunft**
 
-
+Irrelevanz von Kryptosystemen Infolge der Einführung von Quantencomputer 
 
 
 
