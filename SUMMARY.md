@@ -153,7 +153,7 @@
 ## 183
 
 * [Übersicht](183/untitled/README.md)
-  * [Krypotgraphie](183/untitled/krypotgraphie.md)
+  * [Kryptographie](183/untitled/krypotgraphie.md)
   * [Netzwerk-Sicherheit](183/untitled/netzwerk-sicherheit.md)
   * [Webserver-Sicherheit](183/untitled/webserver-sicherheit/README.md)
     * [Salt](183/untitled/webserver-sicherheit/salt.md)

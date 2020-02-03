@@ -1,4 +1,4 @@
-# Krypotgraphie
+# Kryptographie
 
 ## Geschichte
 
