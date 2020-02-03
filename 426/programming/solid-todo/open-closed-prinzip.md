@@ -32,9 +32,57 @@ class Payment
 }
 ```
 
-Implementation gemäss Open/Closed
+#### Implementation gemäss Open/Closed
 
+{% code title="app/Shop/Payment/PaymentInterface.php" %}
+```php
+<?php
 
+namespace App\Shop\Payment;
+
+interface PaymentInterface
+{
+    public function pay();
+}
+```
+{% endcode %}
+
+{% code title="app/Shop/Payment/PaymentFactory.php" %}
+```php
+<?php
+
+namespace App\Shop\Payment;
+
+class PaymentFactory
+{
+    public function createPayment($type){
+        if($type == 'paypal')
+        {
+            return new PayPalPayment();
+        }
+        if($type == 'creditcard')
+        {
+            return new CreditCardPayment();
+        }
+    }
+}
+```
+{% endcode %}
+
+{% code title="app/Shop/Payment/CreditCardPayment.php" %}
+```php
+<?php
+
+namespace App\Shop\Payment;
+
+class CreditCardPayment implements PaymentInterface
+{
+    public function pay() {
+        echo "payWithCreditCard";
+    }
+}
+```
+{% endcode %}
 
 
 
