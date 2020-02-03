@@ -14,7 +14,6 @@
     * [CleanCode](programmierung/code-quality/cleancode/README.md)
       * [Clean Code - Level 1](programmierung/code-quality/cleancode/clean-code.md)
       * [Clean Code - Level 2](programmierung/code-quality/cleancode/clean-code-level-2.md)
-      * [Clean Code - Level 3](programmierung/code-quality/cleancode/clean-code-level-3.md)
     * [Code Smell](programmierung/code-quality/code-smell.md)
     * [How to improve programming skills?](programmierung/code-quality/how-to-improve-programming-skills.md)
   * [REST](programmierung/rest/README.md)
