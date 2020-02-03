@@ -104,15 +104,36 @@ public function isHidden(){
 
 ## Nutze `continue` und `break` um Code zu vereinfachen
 
-#### Gut
+#### Schlecht
 
 ```php
 foreach($products as $product){
-    @todo
+    $abort = false;
+    if($product->isSomethingTrue()){
+        $abort = true;
+    }
+    if($product->isSomethingElseTrue()){
+        $abort = true,
+    }
+    if($abort === false){
+        $results[] = $product->getResult();
+    }
 }
 ```
 
 #### Besser
+
+```php
+foreach($products as $product){
+    if($product->isSomethingTrue()){
+        continue;
+    }
+    if($product->isSomethingElseTrue()){
+        continue;
+    }
+    $results[] = $product->getResult();
+}
+```
 
 ## Vermeide Verschachtelungen
 
