@@ -184,7 +184,7 @@ Die Anfrage-Nachricht war fehlerhaft aufgebaut.
 
 #### Verlinke die API da wo es Sinn macht mit href
 
-```text
+```javascript
 {
   "id": 312,
   "manufacturer": "VW",
@@ -192,7 +192,7 @@ Die Anfrage-Nachricht war fehlerhaft aufgebaut.
   "seats": 4,
   "drivers": [
    {
-    "id": "23",
+    "id": 23,
     "name": "Paul Müller",
     "links": [
      {
@@ -207,7 +207,7 @@ Die Anfrage-Nachricht war fehlerhaft aufgebaut.
 
 #### Filter und Sortierung ermöglichen
 
-```text
+```javascript
 GET /cars?color=red //Returns a list of red cars
 ```
 
@@ -215,7 +215,7 @@ GET /cars?color=red //Returns a list of red cars
 
 So kann der Payload minimiert werden
 
-```text
+```javascript
 GET /cars?fields=manufacturer,model,id,color
 ```
 
