@@ -1,6 +1,6 @@
 # Clean Code - Level 2
 
-### Kommentare
+## Kommentare
 
 #### Schlecht
 
@@ -37,19 +37,19 @@ public function getRenderer($checkerName) {
 }
 ```
 
-### Boy Scout Rule
+## Boy Scout Rule
 
 {% hint style="info" %}
-Jedes mal wenn du eine Zeile Code änderst, kontrolliere die umgebenden Zeilen und verbessere diese.
+Jedes Mal wenn du eine Zeile Code änderst, kontrolliere die umgebenden Zeilen und verbessere diese.
 {% endhint %}
 
-### Plugins
+## Plugins
 
 {% hint style="info" %}
 Schreibe ein Plugin möglichst so dass es auch mit anderen Frameworks funktionieren würde
 {% endhint %}
 
-### Code Style Guide
+## Code Style Guide
 
 #### z.B. für PHP PSR4
 
@@ -71,11 +71,11 @@ function test_get_renderer()
 * Das Team muss sich für Style Guides entscheiden
 * Die IDE kann Fehler erkennen
 
-### Namespaces
+## Namespaces
 
 * Namespaces dienen dazu dass Klassen mit demselben Namen in demselben Projekt möglich sind. Dies ist besonders wichtig wenn man Drittanbieter-Plugins verwendet.
 
-```text
+```php
 <?php
 namespace Laravel\Lumen\Bus;
 class PendingDispatch
@@ -84,9 +84,11 @@ class PendingDispatch
 }
 ```
 
-### Naming Conventions
+## Naming Conventions
 
+{% hint style="success" %}
 In einem Projekt lohnt es sich Namensconventionen zu definieren
+{% endhint %}
 
 `map-teachers-to-products`ist nicht dasselbe wie `map-products-to-teachers`
 
