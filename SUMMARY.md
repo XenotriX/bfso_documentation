@@ -22,6 +22,9 @@
   * [IDEs](programmierung/ides/README.md)
     * [Visual Studio](programmierung/ides/visual-studio.md)
     * [PHPStorm](programmierung/ides/keyboard-shortcuts.md)
+* [Git](git/README.md)
+  * [Git - Level 1](git/git-level-1.md)
+  * [Git - Level 2](git/git-level-2.md)
 
 ## prArb
 
@@ -140,9 +143,6 @@
     * [Liskovsches Substitutionsprinzip](426/programming/solid-todo/liskovsches-substitutionsprinzip.md)
     * [Interface-Segregation-Prinzip](426/programming/solid-todo/interface-segregation-prinzip.md)
     * [Dependency-Inversion-Prinzip](426/programming/solid-todo/dependency-inversion-prinzip.md)
-* [Git](426/git/README.md)
-  * [Git - Level 1](426/git/git-level-1.md)
-  * [Git - Level 2](426/git/git-level-2.md)
 * [Agile](426/agile/README.md)
   * [Scrum](426/agile/scrum/README.md)
     * [Scrum - Level 1](426/agile/scrum/scrum-level-1.md)

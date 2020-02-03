@@ -1,6 +1,6 @@
 # Git - Level 1
 
-![](../../.gitbook/assets/git.jpg)
+![](../.gitbook/assets/git.jpg)
 
 ## Starting a repo
 

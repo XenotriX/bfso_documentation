@@ -72,7 +72,7 @@ Note: **Directory** is also known as **Repository** or short form repo. The repo
 
 The **staging area** is a file \(also called the "index", "stage", or "cache"\) that stores information about what will go into your next commit. A commit is when you tell Git to save these staged changes. Git takes a snapshot of the files as they are and permanently stores that snapshot in the Git directory.
 
-![](../../.gitbook/assets/1_9qx9f9mgswkfcmgtor9bpw.png)
+![](../.gitbook/assets/1_9qx9f9mgswkfcmgtor9bpw.png)
 
 
 
