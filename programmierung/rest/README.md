@@ -110,7 +110,9 @@ Updates a given product
 
 #### Verwende immer die Mehrzahl
 
-~~/product/{id} /products/~~
+~~/product/{id}~~ 
+
+~~/products/~~
 
 `/products/`
 
