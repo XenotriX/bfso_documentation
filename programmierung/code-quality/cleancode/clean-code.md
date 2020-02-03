@@ -42,10 +42,6 @@ SQL ist ein typisches Beispiel.
 
 `echo 'Wert von bla ist'.$bla`
 
-#### **Verwende immer die gleichen Bezeichnungen für dasselbe Konzept**
-
-z.B. `$product->save()` und `$category->store()` oder `$person->phoneNumbers->append()` und `$person->childern->add()`
-
 #### **Code und Kommentare sind immer in Englisch zu Schreiben!**
 
 ## Variablen
