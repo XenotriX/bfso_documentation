@@ -67,7 +67,6 @@
   * [VirtualReality](prprog/unity/virtualreality.md)
   * [MixedReality](prprog/unity/mixedreality.md)
   * [AugmentedReality](prprog/unity/augmentedreality.md)
-* [Projektmanagement](prprog/projektmanagement.md)
 * [Usability](prprog/usability.md)
 * [Projektideen](prprog/projektideen.md)
 
