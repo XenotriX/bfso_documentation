@@ -206,7 +206,8 @@ Unter dem Begriff Schadsoftware werden Programme zusammengefasst, die unbemerkt 
     </tr>
     <tr>
       <td style="text-align:left">Security by obscurity</td>
-      <td style="text-align:left">&#xAB;Ich habe mein Passwort als Kontakt in meinem Telefonbuch gespeichert&#xBB;</td>
+      <td style="text-align:left">&#xAB;Ich habe mein Passwort als Kontakt in meinem Telefonbuch gespeichert&#xBB;
+        - Dies ist keine wirkliche Abwehrmassnahme!</td>
     </tr>
     <tr>
       <td style="text-align:left">Asymmetric Cryptography</td>
