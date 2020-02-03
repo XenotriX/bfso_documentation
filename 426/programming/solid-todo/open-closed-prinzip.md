@@ -103,6 +103,10 @@ public function pay(Request $request){
 ```
 {% endcode %}
 
+#### Vorteile
+
+Auch wenn die Implementation auf den ersten Blick komplizierter erscheid. So zeigen sich die Vorteile sobald das Programm komplizierter wird. Müsste man zum Beispiel die Kreditkartenzahlung anpassen so müsste nur das File `app/Shop/Payment/CreditCardPayment.php` angepasst werden. Alle anderen Zahlungsmethoden müssten nicht berührt werden und somit auch nicht getestet werden. 
+
 {% embed url="https://github.com/bfso/426\_gourmet-webshop/blob/feature/payment/app/Http/Controllers/CheckoutController.php" %}
 
 
