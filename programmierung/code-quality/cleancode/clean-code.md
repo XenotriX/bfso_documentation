@@ -74,7 +74,7 @@ while($i<100){
 ```
 
 {% hint style="warning" %}
-Verwende jede Variable nur für einen Zweck. Kein Variabeln-Recycling!
+Verwende jede Variable nur für einen Zweck. Kein Variablen-Recycling!
 {% endhint %}
 
 ## Nutze `return` um Code zu vereinfachen
@@ -132,7 +132,6 @@ return false;
 #### Besser
 
 * Code ist besser lesbar
-* Kontrolliere zuerst Spezialfälle - dann der gewünschte Fall
 * Fehler werden vermieden
 * Code wird generell kürzer
 
@@ -145,6 +144,10 @@ if($product->stock <= $product->mininalStock){
 }
 return $product;
 ```
+
+{% hint style="success" %}
+Kontrolliere zuerst Spezialfälle - dann der gewünschte oder standardmässige Fall
+{% endhint %}
 
 ## Umso weniger Parameter umso besser
 
