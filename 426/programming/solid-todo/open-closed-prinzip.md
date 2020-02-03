@@ -32,6 +32,15 @@ class Payment
 }
 ```
 
+{% code title="app/Http/Controllers/CheckoutController.php" %}
+```php
+public function pay(Request $request){
+    $payment = new Payment();
+    $payment->pay($request->payment_type);
+}
+```
+{% endcode %}
+
 #### Implementation gemäss Open/Closed
 
 {% code title="app/Shop/Payment/PaymentInterface.php" %}
@@ -84,5 +93,13 @@ class CreditCardPayment implements PaymentInterface
 ```
 {% endcode %}
 
-
+{% code title="app/Http/Controllers/CheckoutController.php" %}
+```php
+public function pay(Request $request){
+    $paymentFactory = new PaymentFactory();
+    $payment = $paymentFactory->createPayment($request->payment_type);
+    $payment->pay();
+}
+```
+{% endcode %}
 
