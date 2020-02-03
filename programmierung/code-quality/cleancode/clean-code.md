@@ -42,7 +42,9 @@ SQL ist ein typisches Beispiel.
 
 `echo 'Wert von bla ist'.$bla`
 
-#### **Code und Kommentare sind immer in Englisch zu Schreiben!**
+{% hint style="danger" %}
+#### **Code, Datenbankfelder, Git-Commits und Kommentare sind absolut immer in Englisch zu Schreiben!**
+{% endhint %}
 
 ## Variablen
 
