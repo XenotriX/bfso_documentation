@@ -25,6 +25,7 @@
   * [Git - Level 1](git/git-level-1.md)
   * [Git - Level 2](git/git-level-2.md)
   * [Git - Level 3](git/git-level-3.md)
+* [Usability](usability.md)
 
 ## prArb
 
@@ -67,7 +68,6 @@
   * [VirtualReality](prprog/unity/virtualreality.md)
   * [MixedReality](prprog/unity/mixedreality.md)
   * [AugmentedReality](prprog/unity/augmentedreality.md)
-* [Usability](prprog/usability.md)
 * [Projektideen](prprog/projektideen.md)
 
 ## 304
