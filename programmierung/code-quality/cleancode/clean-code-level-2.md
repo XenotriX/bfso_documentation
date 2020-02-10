@@ -110,3 +110,13 @@ destroy
 
 z.B. `$product->save()` und `$category->store()` oder `$person->phoneNumbers->append()` und `$person->childern->add()`
 
+## Keep it simple, stupid \(KISS\)
+
+Für die Evolvierbarkeit des Codes ist zwingende Voraussetzung, dass der Code verständlich ist. Eine einfache, klare und leicht verständliche Lösung sollte daher immer bevorzugt werden. Wenn man seinen eigenen Code nach kurzer Zeit schon nicht mehr versteht, sollten die Alarmglocken klingen. Noch wichtiger aber ist, dass auch andere Entwickler den Code schnell verstehen können. Dabei helfen regelmäßige Reviews und Pair Programming. Sie dienen der Kontrolle, ob tatsächlich die einfachste Lösung verwendet wurde.
+
+## Don´t Repeat Yourself \(DRY\)
+
+
+
+
+
