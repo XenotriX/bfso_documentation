@@ -116,6 +116,10 @@ Für die Evolvierbarkeit des Codes ist zwingende Voraussetzung, dass der Code ve
 
 ## Don´t Repeat Yourself \(DRY\)
 
+Vermeide immer Code-Duplizierungen!
+
+
+
 
 
 
