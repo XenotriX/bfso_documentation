@@ -18,6 +18,7 @@ description: Vim is one of the most popular command line text editors.
 | Esc + :wq | Save and quit Vim |
 | Esc + :q! | Force quit Vim discarding all changes |
 |  | Show line numbers |
+| Esc + :% | Go to the end of the file |
 
 #### Show line numbers
 
