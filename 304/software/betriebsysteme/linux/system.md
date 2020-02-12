@@ -11,6 +11,12 @@ man
 man ls
 ```
 
+#### restart
+
+```bash
+	systemctl reboot
+```
+
 ## System Information
 
 #### Show Kernel Version
