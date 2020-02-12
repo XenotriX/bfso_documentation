@@ -11,7 +11,7 @@ man
 man ls
 ```
 
-#### restart
+#### restart/reboot
 
 ```bash
 	systemctl reboot
