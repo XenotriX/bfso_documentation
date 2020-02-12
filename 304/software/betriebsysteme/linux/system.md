@@ -17,6 +17,12 @@ man ls
 	systemctl reboot
 ```
 
+#### Stop what are you doing
+
+```text
+CTRL+C
+```
+
 ## System Information
 
 #### Show Kernel Version
@@ -69,12 +75,6 @@ ps aux | grep christo
 
 ```text
 kill -9 163
-```
-
-#### Stop what are you doing
-
-```text
-CTRL+C
 ```
 
 ## Partitionen
