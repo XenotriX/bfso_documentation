@@ -42,3 +42,6 @@ echo FormattingDistanceConverter::milesToKilometers(20);
 
 Dies verstösst gegen das Liskovsches Substitutionsprinzip und muss vermieden werden! Die Parent-Klasse hat einen möglichen Wertebereich von Negativ-Float bis Positiv-Float. Bei der Child-Klasse wird der mögliche Wertebereich eingeschränkt.
 
+* Das Einschränken von Return-Werten ist verboten
+* Das Ändern von Return-Typen ist verboten
+
