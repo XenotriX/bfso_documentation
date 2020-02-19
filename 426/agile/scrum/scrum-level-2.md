@@ -4,7 +4,7 @@
 
 * Unsicherheiten sollen identifiziert und behoben werden
 
-## Entscheidungen sollten erst im letzten vernünftigen Moment getroffen werden
+### Entscheidungen sollten erst im letzten vernünftigen Moment getroffen werden
 
 Wenn man Entscheidungen so spät als möglich trifft hat man folgende Vorteile:
 
@@ -27,7 +27,7 @@ Wenn man Entscheidungen so spät als möglich trifft hat man folgende Vorteile:
 
 **Zufriedensheitsbedingungen**
 
-Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren wann die Aufgabe als abgeschlossen gilt
+Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren ab wann die Aufgabe als abgeschlossen gilt
 
 > * Nur Dateien mit der Dateiendung jpg und png dürfen hochgeladen werden
 > * Nur Dateien kleiner als 100 Megabyte dürfen hochgeladen werden
@@ -38,7 +38,7 @@ Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren wann die Auf
 Folgende Kriterien sollte eine User-Story erfüllen
 
 * Independent
-  * Stories sollten nicht von zu vielen Stories abhängig sein.
+  * Stories sollten nicht von zu vielen anderen Stories abhängig sein.
 * Negotiable
   * Stories sind keine Verträge, sie dienen vielmehr als Grundlage für Gespräche.
   * Bei Stories geht es um das WAS und WARUM, nicht um das WIE.
@@ -54,10 +54,6 @@ Folgende Kriterien sollte eine User-Story erfüllen
 #### Stories zum Wissenserwerb
 
 Man kann Stories erstellen die dem Erwerb von Wissen dienen. Dieser Vorgang kann verschiedene Namen haben: Prototyp, Studie, Spike. Oft wollen wir so erfahren ob eine Idee technisch möglich ist.
-
-## Story Points
-
-
 
 ## Technische Schulden
 
@@ -79,6 +75,6 @@ Wenn man technische Schulden hat, verkümmert das Produkt immer wie mehr und die
 * Schulden müssen nicht abgebaut werden falls:
   * Das Produkt sich dem Ende seiner Lebensdauer nähert
   * Es sich um einen Prototyp handelt
-* 
+
 
 
