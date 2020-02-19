@@ -27,5 +27,9 @@ Wenn man Entscheidungen so spät als möglich trifft hat man folgende Vorteile:
 
 **Zufriedensheitsbedingungen**
 
-* Oft ist es sinnvoll 
+Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren wann die Aufgabe als abgeschlossen gilt
+
+> * Nur Dateien mit der Dateiendung jpg und png dürfen hochgeladen werden
+> * Nur Dateien kleiner als 100 Megabyte dürfen hochgeladen werden
+> * Nur wenn der User mehr als 39 Wiki-Punkte hat, darf er Dateien hochladen
 
