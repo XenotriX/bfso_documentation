@@ -33,3 +33,19 @@ Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren wann die Auf
 > * Nur Dateien kleiner als 100 Megabyte dürfen hochgeladen werden
 > * Nur wenn der User mehr als 39 Wiki-Punkte hat, darf er Dateien hochladen
 
+#### Es lohnt sich in gute User-Stories Zeit zu investieren
+
+Folgende Kriterien sollte eine User-Story erfüllen
+
+* Independent
+  * Stories sollten nicht von zu vielen Stories abhängig sein
+* Negotiable
+  * Stories sind keine Verträge, sie dienen vielmehr als Grundlage für Gespräche
+  * Bei Stories geht es um das WAS und WARUM, nicht um das WIE
+* Valuable
+  * Wenn eine Story weder für den Kunden noch für den Anwender von Wert ist - so gehört sie nicht in den Backlog
+* Estimatable
+  * Sollte ein Team eine Story nicht schätzen können, dann ist die Story zu gross oder es gibt zu viele unbekannte Faktoren.
+* Small
+  * 
+
