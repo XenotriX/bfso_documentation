@@ -37,7 +37,7 @@ public function getRenderer($checkerName) {
 }
 ```
 
-## Boy Scout Rule
+## Boy Scout Rule \(Pfadfinderregel\)
 
 {% hint style="info" %}
 Jedes Mal wenn du eine Zeile Code änderst, kontrolliere die umgebenden Zeilen und verbessere diese.
