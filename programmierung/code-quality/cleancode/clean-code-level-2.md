@@ -124,9 +124,39 @@ Eine Klasse sollte nur die für die API notwendigen Methoden und Attribute öffe
 
 ## Komposition an Stelle von Vererbung
 
-{% embed url="https://de.wikipedia.org/wiki/Komposition\_an\_Stelle\_von\_Vererbung" %}
+Vererbungen sind nicht immer nötig und auch nicht so flexibel, wie eine Komposition. Daher sollte man genau schauen, ob nicht eine Komposition möglich ist.
+
+![](../../../.gitbook/assets/relationship.png)
+
+#### Vererbung:
+
+```php
+// The parent’s class code
+class House {
+    protected $name;
+    protected $size;
+}
+
+// The child can use the parent's class code
+class BathHouse extends House {}
+
+```
+
+**Komposition:**
+
+```php
+class BathTub { }
+
+class BathHouse {
+    BathTub tub;
+}
+```
 
 ## Tell don't ask
+
+
+
+
 
 {% embed url="https://martinfowler.com/bliki/TellDontAsk.html" %}
 

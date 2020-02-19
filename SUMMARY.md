@@ -142,14 +142,14 @@
     * [Scrum - Level 1](426/agile/scrum/scrum-level-1.md)
     * [Scrum - Level 2](426/agile/scrum/scrum-level-2.md)
   * [Weitere Agile Projektmethoden](426/agile/weitere-agile-projektmethoden.md)
-* [Nicht Teil der Theorieprüfung](426/nicht-teil-der-theoriepruefung.md)
-  * [Lose Kopplung und hohe Kohäsion](426/programming/lose-kopplung-und-hohe-kohaesion.md)
-  * [DependencyInjection](426/programming/dependencyinjection.md)
-  * [Strategy-Pattern](426/programming/design-pattern/strategy-design-pattern.md)
-  * [Observer-Pattern](426/programming/design-pattern/observer-pattern.md)
-  * [Decorator-Pattern](426/programming/design-pattern/decoratorpattern.md)
-  * [Singelton-Pattern](426/programming/design-pattern/untitled.md)
-  * [Encapsulation](426/programming/encapsulation.md)
+* [Nicht Teil der Theorieprüfung](426/nicht-teil-der-theoriepruefung/README.md)
+  * [Lose Kopplung und hohe Kohäsion](426/nicht-teil-der-theoriepruefung/lose-kopplung-und-hohe-kohaesion.md)
+  * [DependencyInjection](426/nicht-teil-der-theoriepruefung/dependencyinjection.md)
+  * [Strategy-Pattern](426/nicht-teil-der-theoriepruefung/strategy-design-pattern.md)
+  * [Observer-Pattern](426/nicht-teil-der-theoriepruefung/observer-pattern.md)
+  * [Decorator-Pattern](426/nicht-teil-der-theoriepruefung/decoratorpattern.md)
+  * [Singelton-Pattern](426/nicht-teil-der-theoriepruefung/untitled.md)
+  * [Encapsulation](426/nicht-teil-der-theoriepruefung/encapsulation.md)
 
 ## 183
 
