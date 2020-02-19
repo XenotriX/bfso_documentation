@@ -51,3 +51,7 @@ Folgende Kriterien sollte eine User-Story erfüllen
 * Testable
   * Wenn man gute Zufriedenheitsbedingungen definiert kann man beim Abschluss einer Story genau testen ob die Story erfüllt wurde.
 
+#### Stories zum Wissenserwerb
+
+Man kann Stories erstellen die dem Erwerb von Wissen dienen. Dieser Vorgang kann verschiedene Namen haben: Prototyp, Studie, Spike.
+
