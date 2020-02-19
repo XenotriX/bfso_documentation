@@ -71,5 +71,14 @@ Wenn man technische Schulden hat, verkümmert das Produkt immer wie mehr und die
 * Kundenzufriedenheit sinkt
 * Technische Schulden sollten überwacht werden - so wird dem Management oder dem Kunden klar was es bedeutet wenn man die Produktentwicklung beschleunigt.
 
+#### Abbauen von Schulden
+
+* Schulden sind abzubauen sobald man ihnen begegnet \(Pfadfinderregel\)
+* Schulden sind Schrittweise abzubauen
+* Schulden abbauen während man für den Kunden werthaltige Arbeit erledigt
+* Schulden müssen nicht abgebaut werden falls:
+  * Das Produkt sich dem Ende seiner Lebensdauer nähert
+  * Es sich um einen Prototyp handelt
+* 
 
 
