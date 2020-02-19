@@ -43,7 +43,6 @@ echo FormattingDistanceConverter::milesToKilometers(20);
 Dies verstösst gegen das Liskovsches Substitutionsprinzip und muss vermieden werden! Die Parent-Klasse hat einen möglichen Wertebereich von Negativ-Float bis Positiv-Float. Bei der Child-Klasse wird der mögliche Wertebereich eingeschränkt.
 
 * Das Einschränken von Return-Werten ist verboten
-* Das Ändern von Return-Typen ist verboten
 
 ## Ein weiteres Beispiel
 
@@ -66,7 +65,7 @@ class PrimaryPostShipment extends PostShipment
 {
 	  public function cost()
 	  {
-		  	if($this->cartTotalPrice >= 5){
+		  if($this->cartTotalPrice >= 5){
 				return "Shipment is not allowed when the total card price is lower than 5";
 			}
 			
@@ -93,4 +92,6 @@ echo $shipment->cost();
 $shipment = new PrimaryPostShipment(50);
 echo $shipment->cost();
 ```
+
+In der Klasse `PrimaryPostShipment` wird, falls der `cartTotalPrice` weniger als 5 ist eine Fehlermeldung als String zurückgegeben. Dies ist verboten weil der Rückgabe-Typ nicht anders sein darf als bei der Vaterklasse.
 
