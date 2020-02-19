@@ -53,5 +53,5 @@ Folgende Kriterien sollte eine User-Story erfüllen
 
 #### Stories zum Wissenserwerb
 
-Man kann Stories erstellen die dem Erwerb von Wissen dienen. Dieser Vorgang kann verschiedene Namen haben: Prototyp, Studie, Spike.
+Man kann Stories erstellen die dem Erwerb von Wissen dienen. Dieser Vorgang kann verschiedene Namen haben: Prototyp, Studie, Spike. Oft wollen wir so erfahren ob eine Idee technisch möglich ist.
 
