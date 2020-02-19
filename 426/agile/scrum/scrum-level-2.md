@@ -25,5 +25,7 @@ Wenn man Entscheidungen so spät als möglich trifft hat man folgende Vorteile:
 
 > Als **Wiki-Benutzer** möchte ich eine **Datei in das Wiki laden**, so dass ich sie mit meinen Kollegen teilen **kann**.
 
+**Zufriedensheitsbedingungen**
 
+* Oft ist es sinnvoll 
 
