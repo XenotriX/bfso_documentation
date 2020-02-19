@@ -6,13 +6,15 @@ Das Liskovsche Substitutionsprinzip fordert, dass eine Instanz einer abgeleitete
 
 ## Ein Beispiel
 
+Hier hat ein Entwickler den DistanceConverter "optimiert" indem er negative Werte welche er nicht braucht in positive umwandelt.
+
 ```php
 <?php
 
 class DistanceConverer
 {
 	  const FACTOR = 0.6214;
-	  public static function milesToKilometers( $miles )
+	  public static function milesToKilometers(int $miles ) : float
 	  {
 		return $miles / self::FACTOR;
 	  }
@@ -21,7 +23,7 @@ class DistanceConverer
 
 class FormattingDistanceConverter extends DistanceConverer
 {
-	  public static function milesToKilometers( $miles )
+	  public static function milesToKilometers(int $miles ) : float
 	  {
 			if ( $miles > 0){
 				return $miles / self::FACTOR;
@@ -35,7 +37,8 @@ echo DistanceConverer::milesToKilometers(20);
 echo "<br>";
 echo "<br>";
 echo FormattingDistanceConverter::milesToKilometers(20);
+
 ```
 
-
+Dies verstösst gegen das Liskovsches Substitutionsprinzip und muss vermieden werden! Die Parent-Klasse hat einen möglichen Wertebereich von Negativ-Float bis Positiv-Float. Bei der Child-Klasse wird der mögliche Wertebereich eingeschränkt.
 
