@@ -45,3 +45,44 @@ Dies verstösst gegen das Liskovsches Substitutionsprinzip und muss vermieden we
 * Das Einschränken von Return-Werten ist verboten
 * Das Ändern von Return-Typen ist verboten
 
+## Ein weiteres Beispiel
+
+```php
+class PostShipment
+{
+	  protected $cartTotalPrice;
+	
+	  public function __construct($cartTotalPrice){
+		  $this->cartTotalPrice = $cartTotalPrice;
+	  }
+	
+	  public function cost()
+	  {
+			return 0.0;
+	  }
+}
+
+class PrimaryPostShipment extends PostShipment
+{
+	  public function cost()
+	  {
+		  	if($this->cartTotalPrice >= 5){
+				return "Shipment is not allowed when the total card price is lower than 5";
+			}
+			
+			// Free shipping when the total price is higher than 50
+			if ( $this->cartTotalPrice > 50 ){
+				return 0.0;
+			}
+
+			return 6.0;
+	  }
+}
+
+$shipment = new PrimaryPostShipment(4);
+echo $shipment->cost();
+
+$shipment = new PrimaryPostShipment(50);
+echo $shipment->cost();
+```
+
