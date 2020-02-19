@@ -35,12 +35,12 @@ Die folgenden Techniken werden nicht im Detail angeschaut, trotzdem haben sie ei
   * Problemumfang verstehen und gesamthaft angehen, nicht sequentiell
     * Arbeiten in Stücken im Kontext des Gesamten Projekts
   * Kunde braucht Erfahrung mit dem System
-* **See the whole**
+* S**ee the whole**
   * Nicht nur Menge von Teilen
 
 ## eXtreme Programming
 
-eXtreme Programming \(XP\) besteht im zyklischen Vorgehen auf allen Ebenen: von der Programmierung über die tägliche Abstimmung im Entwicklerteam bis hin zum gemeinsamen Anforderungsmanagement mit dem Kunden.
+Das Charakteristikum von eXtreme Programming \(XP\) besteht im zyklischen Vorgehen auf allen Ebenen: von der Programmierung über die tägliche Abstimmung im Entwicklerteam bis hin zum gemeinsamen Anforderungsmanagement mit dem Kunden.
 
 * **Sekundentakt**: Das Programmieren in Paaren \(Pair-Programming\) führt dazu, dass sich die Entwickler ständig gegenseitig kontrollieren und auf Fehler oder umständliches Design aufmerksam machen. 
 * **Minutentakt**: In XP wird testgetrieben entwickelt, die UNIT-Tests werden also vor dem Code geschrieben, so dass eine permanente Überprüfung des Codes stattfindet.

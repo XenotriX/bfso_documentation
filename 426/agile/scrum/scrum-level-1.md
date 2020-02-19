@@ -8,15 +8,18 @@
 * Repräsentiert den Kunden
 * Verantwortlich für den Backlog
 * Verantwortlich für die Stakeholder
+* Motiviert das Team
 
 ### ScrumMaster
 
 * Kennt Scrum und lebt dessen Prinzipien
 * Vertritt das Team gegenüber dem Management
 * Hilft dem Team
+* Trainiert das Team
 * Schützt das Team vor externen Störungen
 * Sorgt dafür dass das Team die Scrum-Regeln befolgt
   * Coach des Scrum Teams
+* Ist sachkundig
 
 ### Entwicklungsteam
 
