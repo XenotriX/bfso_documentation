@@ -60,8 +60,9 @@ function getRenderer()    // camelCase Funktionen
 }
 
 
+// Unit-Tests
 function test_get_renderer()
-{ // Unit-Tests
+{ 
     
 }
 
