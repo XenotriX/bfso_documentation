@@ -79,6 +79,14 @@ class PrimaryPostShipment extends PostShipment
 	  }
 }
 
+class BudgetPostShipment extends PostShipment
+{
+	  public function cost()
+	  {
+			return 3.0;
+	  }
+}
+
 $shipment = new PrimaryPostShipment(4);
 echo $shipment->cost();
 
