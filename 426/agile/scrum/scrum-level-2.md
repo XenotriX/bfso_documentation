@@ -55,3 +55,21 @@ Folgende Kriterien sollte eine User-Story erfüllen
 
 Man kann Stories erstellen die dem Erwerb von Wissen dienen. Dieser Vorgang kann verschiedene Namen haben: Prototyp, Studie, Spike. Oft wollen wir so erfahren ob eine Idee technisch möglich ist.
 
+## Story Points
+
+
+
+## Technische Schulden
+
+> Software zu schreiben ist wie Schulden aufnehmen. Geringe Schulden aufzunehmen beschleunigt die Softwareentwicklung, solange die Schulden rasch durch eine Neuimplementierung getilgt werden… Die Gefahr entsteht, wenn die Schulden nicht zurückgezahlt werden. Jede Minute, die man mit nicht ganz richtigem Code verbringt, zählt als Zins auf diese Schuld. Ganze Entwicklungseinrichtungen können unter der Schuldenlast einer unbereinigten Implementierung zum Stillstand gebracht werden. . 
+>
+> Ward Cunningham
+
+Wenn man technische Schulden hat, verkümmert das Produkt immer wie mehr und die Änderungskosten werden grösser.
+
+* Frust bei Entwicklern wird grösser
+* Kundenzufriedenheit sinkt
+* Technische Schulden sollten überwacht werden - so wird dem Management oder dem Kunden klar was es bedeutet wenn man die Produktentwicklung beschleunigt.
+
+
+
