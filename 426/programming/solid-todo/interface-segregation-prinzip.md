@@ -31,6 +31,13 @@ class Subscriber implements NotifiableInterface{
 	}
 }
 
+class User implements NotifiableInterface{
+	public function getNotifyEmail() : string
+	{
+		// logic
+	}
+}
+
 class Notifications
 {
 	public static function send(NotifiableInterface $subscriber, $message){
@@ -38,5 +45,6 @@ class Notifications
 			->queue($message);
 	}
 }
+
 ```
 
