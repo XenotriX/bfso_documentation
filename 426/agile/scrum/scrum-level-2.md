@@ -38,14 +38,16 @@ Oft ist es sinnvoll zu einer User-Story einige Punkte zu definieren wann die Auf
 Folgende Kriterien sollte eine User-Story erfüllen
 
 * Independent
-  * Stories sollten nicht von zu vielen Stories abhängig sein
+  * Stories sollten nicht von zu vielen Stories abhängig sein.
 * Negotiable
-  * Stories sind keine Verträge, sie dienen vielmehr als Grundlage für Gespräche
-  * Bei Stories geht es um das WAS und WARUM, nicht um das WIE
+  * Stories sind keine Verträge, sie dienen vielmehr als Grundlage für Gespräche.
+  * Bei Stories geht es um das WAS und WARUM, nicht um das WIE.
 * Valuable
-  * Wenn eine Story weder für den Kunden noch für den Anwender von Wert ist - so gehört sie nicht in den Backlog
+  * Wenn eine Story weder für den Kunden noch für den Anwender von Wert ist - so gehört sie nicht in den Backlog.
 * Estimatable
   * Sollte ein Team eine Story nicht schätzen können, dann ist die Story zu gross oder es gibt zu viele unbekannte Faktoren.
 * Small
-  * 
+  * Man will während eines Sprints an mehreren Stories arbeiten können, nicht nur an einer Story.
+* Testable
+  * Wenn man gute Zufriedenheitsbedingungen definiert kann man beim Abschluss einer Story genau testen ob die Story erfüllt wurde.
 
