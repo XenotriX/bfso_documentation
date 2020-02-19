@@ -118,6 +118,14 @@ Für die Evolvierbarkeit des Codes ist zwingende Voraussetzung, dass der Code ve
 
 Vermeide immer Code-Duplizierungen!
 
+## Information Hiding Principle
+
+Eine Klasse sollte nur die für die API notwendigen Methoden und Attribute öffentlich zur Verfügung stellen. Durch das Verbergen der Implementierungsdetails wird die Benutzung der Klasse von ihrer Implementierung unabhängig gemacht. Leider ist sehr häufig zu beobachten, daß alle in Klassen auf public gesetzt wird.
+
+## Komposition an Stelle von Vererbung
+
+{% embed url="https://de.wikipedia.org/wiki/Komposition\_an\_Stelle\_von\_Vererbung" %}
+
 
 
 
