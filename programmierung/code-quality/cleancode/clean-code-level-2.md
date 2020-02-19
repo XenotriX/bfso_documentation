@@ -126,6 +126,12 @@ Eine Klasse sollte nur die für die API notwendigen Methoden und Attribute öffe
 
 {% embed url="https://de.wikipedia.org/wiki/Komposition\_an\_Stelle\_von\_Vererbung" %}
 
+## Tell don't ask
+
+{% embed url="https://martinfowler.com/bliki/TellDontAsk.html" %}
+
+
+
 
 
 
