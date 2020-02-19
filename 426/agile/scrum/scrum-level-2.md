@@ -13,5 +13,17 @@ Wenn man Entscheidungen so spät als möglich trifft hat man folgende Vorteile:
 
 ![](../../../.gitbook/assets/lrm.png)
 
+## User Stories
+
+* Eignen sich nicht für alle Backlog-Elemente welche ausgeführt werden sollen
+  * "Als Kunde hätte ich gerne dass das System nicht die Datenbank beschädigt" wäre z.B. ein solcher Task welcher sich nicht gut als User-Story ausdrücken lässt
+* Eignen sich gut um einen gewünschten Geschäftswert oder eine Business-Anforderung auszudrücken
+
+#### User Story Vorlage
+
+* Als &lt;Benutzerrolle&gt; möchte ich &lt;Ziel&gt;, so dass &lt;Vorteil&gt;
+
+> Als **Wiki-Benutzer** möchte ich eine **Datei in das Wiki laden**, so dass ich sie mit meinen Kollegen teilen **kann**.
+
 
 
