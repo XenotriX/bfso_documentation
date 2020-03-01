@@ -6,7 +6,7 @@
 
 ## Erstellung eines Word Modulplans anhand einer Datenbank
 
-{% file src="../.gitbook/assets/prprog-d001-emvs3-modulplan.docx" caption="prProg D001 EMVs3 - Modulplan.docx" %}
+{% file src="../../.gitbook/assets/prprog-d001-emvs3-modulplan.docx" caption="prProg D001 EMVs3 - Modulplan.docx" %}
 
 ## Aufsetzen von einem Moodles
 

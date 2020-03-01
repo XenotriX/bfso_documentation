@@ -20,7 +20,7 @@ description: >-
 
 
 
-![](../../../.gitbook/assets/cmos-nand-gate.webp)
+![](../../../../.gitbook/assets/cmos-nand-gate.webp)
 
 | A | B | AND | NAND | XOR | Exclusive-NOR |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ description: >-
 
 Die heutigen CPU bestehen aus vier Funktionsgruppen \(Units\)
 
-![](../../../.gitbook/assets/aufbau-cpu-alu-registersatz.png)
+![](../../../../.gitbook/assets/aufbau-cpu-alu-registersatz.png)
 
 <table>
   <thead>
@@ -219,7 +219,7 @@ Zur Steigerung der Performance kann man folgendes machen:
 
 ## Bilder
 
-![Sandy-Bridge-Architektur \(2. Generation\)](../../../.gitbook/assets/sandy-bridge-architektur.jpg)
+![Sandy-Bridge-Architektur \(2. Generation\)](../../../../.gitbook/assets/sandy-bridge-architektur.jpg)
 
 ## Videos
 

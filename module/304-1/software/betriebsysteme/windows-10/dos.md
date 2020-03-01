@@ -26,7 +26,7 @@ WINDOWS+R
 
 Was ist zu tun falls ein Port Blockiert ist?
 
-![](../../../../.gitbook/assets/image%20%281%29.png)
+![](../../../../../.gitbook/assets/image%20%281%29.png)
 
 {% embed url="https://www.getfilecloud.com/blog/2016/05/how-to-find-what-application-is-listening-on-a-tcpip-port-in-windows-using-netstat/\#.XiwB6GhKhaQ" %}
 

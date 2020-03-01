@@ -35,7 +35,7 @@ AAABBCDDDD
 }
 ```
 
-![](../../.gitbook/assets/jpg-v-png-zion-national-park.jpg)
+![](../../../.gitbook/assets/jpg-v-png-zion-national-park.jpg)
 
 {% embed url="https://compressjpeg.com/" %}
 

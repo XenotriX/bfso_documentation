@@ -36,7 +36,7 @@ Seit den 2000er Jahren ist die Northbridge als separater Chip auf dem Rückzug: 
 
 Wegen wachsender Leistungsansprüche entstand die erweiterte Hub‐Architektur. Grafik‐ und Speichercontroller befinden sich innerhalb der CPU. Das ermöglicht eine optimale Geschwindigkeit im Datenaustausch zwischen diesen drei Komponenten. Memory Controller Hub \(MCH\) und I/O Controller Hub \(ICH\) teilen sich ein gemeinsames Gehäuse \(1\). Daher spricht man in diesem Zusammenhang auch von einen „Einchip“‐Chipsatz.
 
-![](../../../.gitbook/assets/erweiterte-hub-architektur.png)
+![](../../../../.gitbook/assets/erweiterte-hub-architektur.png)
 
 ## BIOS
 
@@ -145,7 +145,7 @@ Der Steuerbus regelt den Informationsfluss auf dem Systembus. Der Prozessor gibt
 {% endtab %}
 
 {% tab title="Ablauf" %}
-![](../../../.gitbook/assets/image.png)
+![](../../../../.gitbook/assets/image.png)
 {% endtab %}
 {% endtabs %}
 
@@ -164,11 +164,11 @@ Der Steuerbus regelt den Informationsfluss auf dem Systembus. Der Prozessor gibt
 11. USB 3.0
 12. Sound-Anschlüsse Analog
 
-![](../../../.gitbook/assets/schnittstellen-atx-board.png)
+![](../../../../.gitbook/assets/schnittstellen-atx-board.png)
 
 {% page-ref page="../peripherie.md" %}
 
 ## Bilder
 
-![](../../../.gitbook/assets/i7-platform-overview.png)
+![](../../../../.gitbook/assets/i7-platform-overview.png)
 

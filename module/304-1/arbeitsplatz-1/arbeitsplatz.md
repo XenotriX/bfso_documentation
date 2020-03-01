@@ -55,7 +55,7 @@ Art. 3 der Verordnung 3 zum Arbeitsgesetz
 
 
 
-![](../../.gitbook/assets/die-optimalte-koerperhaltung.png)
+![](../../../.gitbook/assets/die-optimalte-koerperhaltung.png)
 
 
 
