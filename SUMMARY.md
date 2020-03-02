@@ -1,6 +1,9 @@
 # Table of contents
 
 * [ICT - Berufsbildung](README.md)
+
+## Allgemeines Wiki
+
 * [Programmierung](programmierung/README.md)
   * [PHP](programmierung/php/README.md)
     * [Arrays](programmierung/php/arrays/README.md)
