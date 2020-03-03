@@ -4,7 +4,7 @@
 
 ## Starting a repo
 
-#### Git remote with https
+#### Git remote with ssh
 
 ```text
 git remote add origin git@git.assembla.com:portfolio/space.space_name.git
@@ -27,7 +27,7 @@ git clone https://username@github.com/username/repository.git
 ## Autor des letzten `commits` ändern
 
 ```text
-git ckacommit --amend --author="Christoph Karlen <christoph.karlen@ffhs.ch>"
+git commit --amend --author="Christoph Karlen <christoph.karlen@ffhs.ch>"
 ```
 
 #### Commit mit author
